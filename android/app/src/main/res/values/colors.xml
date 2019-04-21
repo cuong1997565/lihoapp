@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryColor">#E03936</color>
+    <color name="primaryDarkColor">#E03936</color>
+    <color name="primaryLightColor">#E03936</color>
+    <color name="statusbarColor">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
